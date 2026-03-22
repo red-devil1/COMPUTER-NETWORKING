@@ -1,0 +1,40 @@
+Experiment No.—1 : Exploring Networking Commands via Windows CMD - LINUX Terminal 
+
+a) Execute and observe the output of: ping, traceroute / tracert, netstat, arp, ipconfig / ifconfig, 
+getmac, hostname, nslookup, pathping, systeminfo. 
+b) Discuss the purpose and interpretation of each command’s output. 
+c) Learning Focus: Understanding diagnostic and configuration commands.
+
+
+NETWORKING COMMANDS –  
+
+1. PING 
+ping google.com 
+
+2. TRACERT (Traceroute) 
+tracert google.com 
+
+3. NETSTAT 
+netstat -an 
+
+4. ARP (Address Resolution Protocol) 
+arp -a 
+
+5. IPCONFIG 
+ipconfig /all 
+
+6. GETMAC 
+getmac 
+
+7. HOSTNAME 
+hostname
+
+8. NSLOOKUP 
+nslookup google.com 
+
+9. PATHPING 
+pathping google.com 
+
+10. SYSTEMINFO 
+Systeminfo 
+
